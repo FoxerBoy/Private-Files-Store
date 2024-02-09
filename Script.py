@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hello {} MY NAME {} ❤\n\nI'M FILE STORE BOT AND FILES STREAMING BOT\n━━━━━━━━━━━━━━━━━━━━━━━━━\n● I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇs sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴀs ᴡᴇʟʟ ᴅɪʀᴇᴄᴛ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ\n● sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ɢᴇᴛ ᴀ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ.!\n\n<spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/foxybotzupdates>ꜰᴏxʏ ʙᴏᴛᴢ</a></spoiler></b>"""
+    START_TXT = """<b>Hello {} MY NAME {} ❤\n\nI'M FILE STORE BOT AND FILES STREAMING BOT\n━━━━━━━━━━━━━━━━━━━━━━━━━\n‼️ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ sᴛʀᴇᴀᴍɪɴɢ + ᴄʟᴏɴᴇ ꜰᴇᴀᴛᴜʀᴇ ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.\n‼️ sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ ᴀɴᴅ ɢᴇᴛ ᴀ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ.!\n\n<spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/foxybotzupdates>ꜰᴏxʏ ʙᴏᴛᴢ</a></spoiler></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
