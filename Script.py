@@ -39,15 +39,14 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>ʜɪ {m.from_user.mention}, 😎 ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ sᴛʀᴇᴀᴍɪɴɢ + ᴄʟᴏɴᴇ ꜰᴇᴀᴛᴜʀᴇ ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
 
-🤖 ᴍʏ ɴᴀᴍᴇ :{}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/itz_jeet_065>ꜰᴏxᴇʀʙᴏʏ</a>
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/foxybotzsupport>ꜰᴏxʏ sᴜᴘᴘᴏʀᴛ</a>
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/foxybotzupdates>ꜰᴏxʏ ʙᴏᴛᴢ</a></b>
+🤖 ᴍʏ ɴᴀᴍᴇ : {}
+📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
+📚 ʟɪʙʀᴀʀʏ : <a href=https://docs.pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/itz_jeet_065>ꜰᴏxᴇʀʙᴏʏ</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘb: <a href=https://t.me/foxybotzsupport>ꜰᴏxʏ sᴜᴘᴘᴏʀᴛ</a>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/foxybotzupdates>ꜰᴏxʏ ʙᴏᴛᴢ</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
